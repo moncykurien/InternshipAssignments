@@ -1,1 +1,2 @@
-*.ini
+### Config file ###
+webscrapping/config.ini
