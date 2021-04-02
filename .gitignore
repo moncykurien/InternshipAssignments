@@ -1,4 +1,3 @@
-### Config file ###
+*.ini
 webscrapping/config.ini
 config
-*.ini
