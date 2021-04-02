@@ -1,4 +1,0 @@
-### Config file ###
-webscrapping/config.ini
-config
-*.ini
